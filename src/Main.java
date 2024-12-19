@@ -10,7 +10,7 @@ public class Main
 
         Student student = new Student("Elmar", "Jafarli", 29, "elmar465@gmail.com");
         System.out.println(student);
-        System.out.println(Arrays.toString(numbers));
+        //System.out.println(Arrays.toString(numbers));
         List<Integer>  number =  new LinkedList<>();
 
         int[] number1 =  {1,2,3,4,5};
